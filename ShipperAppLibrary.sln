@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipperAppLibrary", "ShipperAppLibrary\ShipperAppLibrary.csproj", "{86314B23-5504-47FA-B709-5B6ADA72E397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipperApp", "ShipperApp\ShipperApp.csproj", "{8BC24447-7213-4C95-A235-0F887A8929DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86314B23-5504-47FA-B709-5B6ADA72E397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86314B23-5504-47FA-B709-5B6ADA72E397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86314B23-5504-47FA-B709-5B6ADA72E397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86314B23-5504-47FA-B709-5B6ADA72E397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC24447-7213-4C95-A235-0F887A8929DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC24447-7213-4C95-A235-0F887A8929DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC24447-7213-4C95-A235-0F887A8929DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC24447-7213-4C95-A235-0F887A8929DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4CA53A4-C2A4-4CDB-B9C4-4DF5A7390273}
+	EndGlobalSection
+EndGlobal

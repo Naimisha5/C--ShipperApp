@@ -1,0 +1,14 @@
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperApp\bin\Debug\netcoreapp2.0\ShipperApp.deps.json
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperApp\bin\Debug\netcoreapp2.0\ShipperApp.runtimeconfig.json
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperApp\bin\Debug\netcoreapp2.0\ShipperApp.runtimeconfig.dev.json
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperApp\bin\Debug\netcoreapp2.0\ShipperApp.dll
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperApp\bin\Debug\netcoreapp2.0\ShipperApp.pdb
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperApp\bin\Debug\netcoreapp2.0\ShipperAppLibrary.dll
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperApp\bin\Debug\netcoreapp2.0\ShipperAppLibrary.pdb
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperApp\obj\Debug\netcoreapp2.0\ShipperApp.csprojAssemblyReference.cache
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperApp\obj\Debug\netcoreapp2.0\ShipperApp.csproj.CoreCompileInputs.cache
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperApp\obj\Debug\netcoreapp2.0\ShipperApp.AssemblyInfoInputs.cache
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperApp\obj\Debug\netcoreapp2.0\ShipperApp.AssemblyInfo.cs
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperApp\obj\Debug\netcoreapp2.0\ShipperApp.csproj.CopyComplete
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperApp\obj\Debug\netcoreapp2.0\ShipperApp.dll
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperApp\obj\Debug\netcoreapp2.0\ShipperApp.pdb

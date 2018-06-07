@@ -1,0 +1,9 @@
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperAppLibrary\obj\Debug\netstandard2.0\ShipperAppLibrary.csprojAssemblyReference.cache
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperAppLibrary\obj\Debug\netstandard2.0\ShipperAppLibrary.csproj.CoreCompileInputs.cache
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperAppLibrary\obj\Debug\netstandard2.0\ShipperAppLibrary.AssemblyInfoInputs.cache
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperAppLibrary\obj\Debug\netstandard2.0\ShipperAppLibrary.AssemblyInfo.cs
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperAppLibrary\bin\Debug\netstandard2.0\ShipperAppLibrary.deps.json
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperAppLibrary\bin\Debug\netstandard2.0\ShipperAppLibrary.dll
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperAppLibrary\bin\Debug\netstandard2.0\ShipperAppLibrary.pdb
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperAppLibrary\obj\Debug\netstandard2.0\ShipperAppLibrary.dll
+c:\users\naimisha.g\source\repos\ShipperAppLibrary\ShipperAppLibrary\obj\Debug\netstandard2.0\ShipperAppLibrary.pdb
